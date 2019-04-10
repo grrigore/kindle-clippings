@@ -1,10 +1,21 @@
 import sys
+import os
 
-### MyClippings.txt file path
+
+def createDirectory(directory):
+    try:
+        if not os.path.exists(directory):
+            os.makedirs(directory)
+    except OSError:
+        print ('Error: Creating directory. ' + directory)
+
+
+# MyClippings.txt file path
 fileName = sys.argv[1]
 
 highlightSeparator = "==========\n"
 highlights = []
+
 
 with open(fileName, 'r+') as myClippingsFile:
     data = myClippingsFile.read()
@@ -15,9 +26,11 @@ with open(fileName, 'r+') as myClippingsFile:
     for highlight in highlights:
         print(highlight + " ------ ")
 
+createDirectory("My Clippings")
+
 for highlight in highlights:
     bookTitle = highlight.split("(")[0]
-    bookTitle = bookTitle.replace("\ufeff", "")
     bookTitle = bookTitle[:-1] + '.txt'
-    with open(bookTitle, 'a') as bookHighlights:
+    bookTitle = bookTitle.replace("\ufeff", "")
+    with open("My Clippings/" + bookTitle, 'a') as bookHighlights:
         bookHighlights.write("\n" + highlight)

@@ -3,20 +3,10 @@
 
 întunericul catifelat
 ==========
-﻿﻿Efficient Android Threading (Anders Göransson)
-- Your Highlight on page 21 | Location 271-280 | Added on Monday, October 22, 2018 4:40:15 PM
-
-Foreground Application has a visible component in front, Service is bound to an Activity in front in a remote process, or BroadcastReceiver is running. Visible Application has a visible component but is partly obscured. Service Service is executing in the background and is not tied to a visible component. Background A nonvisible Activity. This is the process level that contains most applications. Empty A process without active components. Empty processes are kept around to improve startup times, but they are the first to be terminated when the system reclaims resources. In practice, the ranking system
-==========
 ﻿Efficient Android Threading (Anders Göransson)
 - Your Highlight on page 21 | Location 271-279 | Added on Monday, October 22, 2018 4:40:22 PM
 
 Foreground Application has a visible component in front, Service is bound to an Activity in front in a remote process, or BroadcastReceiver is running. Visible Application has a visible component but is partly obscured. Service Service is executing in the background and is not tied to a visible component. Background A nonvisible Activity. This is the process level that contains most applications. Empty A process without active components. Empty processes are kept around to improve startup times, but they are the first to be terminated when the system reclaims resources.
-==========
-﻿My Clippings  
-- Your Highlight on Location 3-7 | Added on Monday, October 22, 2018 4:44:20 PM
-
-Foreground Application has a visible component in front, Service is bound to an Activity in front in a remote process, or BroadcastReceiver is running. Visible Application has a visible component but is partly obscured. Service Service is executing in the background and is not tied to a visible component. Background A nonvisible Activity. This is the process level that contains most applications. Empty A process without active components. Empty processes are kept around to improve startup times, but they are the first to be terminated when the system reclaims resources. In practice, the ranking system
 ==========
 ﻿Sarpele (Mircea Eliade)
 - Your Highlight on page 70 | Location 1070-1072 | Added on Wednesday, November 21, 2018 1:06:34 PM
@@ -106,7 +96,7 @@ Let's say you're going to schedule a meeting that lasts one hour, and you invite
 Rework (Jason Fried; David Heinemeier Hansson)
 - Your Highlight on Location 722-731 | Added on Sunday, March 31, 2019 3:07:32 PM
 
-If you decide you absolutely must get together, try to make your meeting a productive one by sticking to these simple rules: Set a timer. When it rings, meeting's over. Period. Invite as few people as possible. Always have a clear agenda. Begin with a specific problem. Meet at the site of the problem instead of a conference room. Point to real things and suggest real changes. End with a solution and make someone responsible for implementing it. 
+If you decide you absolutely must get together, try to make your meeting a productive one by sticking to these simple rules: Set a timer. When it rings, meeting's over. Period. Invite as few people as possible. Always have a clear agenda. Begin with a specific problem. Meet at the site of the problem instead of a conference room. Point to real things and suggest real changes. End with a solution and make someone responsible for implementing it.
 ==========
 Rework (Jason Fried; David Heinemeier Hansson)
 - Your Highlight on Location 722-730 | Added on Sunday, March 31, 2019 3:07:43 PM
@@ -557,4 +547,6 @@ The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting
 - Your Highlight on page 106 | Location 1612-1640 | Added on Wednesday, April 10, 2019 5:43:23 PM
 
 I can provide five ways to avoid hiring the wrong people: DON’T CONFUSE CORRELATION AND CAUSATION. A candidate may have worked at an organization when it achieved success; this doesn’t necessarily mean he contributed to the success. He could have just been along for the ride. The rising tide floats all boats. To separate the eagles from the dodos, find out what specific projects the candidate managed and analyze his results. Also, try to find someone inside the company who worked with the person to see if the candidate caused or correlated. DON’T CONFUSE BIG-ORGANIZATION SKILLS WITH NEW-ORGANIZATION SKILLS. Success in a big organization doesn’t guarantee success in a startup. The skills needed in each context are different. A vice president of Microsoft (with its established brand, infinite resources, and 100 percent market share) may not be the right person for a “two guys in a garage” operation. BIG ORGANIZATION SKILLS STARTUP SKILLS Sucking up to the boss Being the boss Generating paper profits Generating cash flow Beating charges of monopoly Establishing a beachhead Evolving products and services Creating products and services Market research Shipping Squeezing the distribution channel Establishing a distribution channel DRAMATIZE YOUR EXPECTATIONS. Make it crystal clear that working in a startup is different from what they might be used to in their previous organization: “Can you function without a secretary, fly coach, and stay in cheap motels?” You might scare off a few desirable candidates this way, but it’s worth risking this to avoid ending up with people who cannot function in a startup atmosphere. READ THE TEA LEAVES WHEN CHECKING REFERENCES. Because the laws in the United States prevent providing job references that may damage a candidate’s ability to get a job, whenever you don’t get a reference that’s superlative, you are in effect getting a negative one. If the reference sends you to the human resources department, then you know the candidate had problems. (See the end of this chapter for more on reference checking.) TRUST THE RICHEST VEIN. Your current employees are the richest resource for finding great people and for preventing a bozo explosion at your organization. If your employees aren’t motivated to bring in good staff, who is? If there’s a close call between two candidates, and one is known by an employee, you should usually take that one.
+==========
+fect getting a negative one. If the reference sends you to the human resources department, then you know the candidate had problems. (See the end of this chapter for more on reference checking.) TRUST THE RICHEST VEIN. Your current employees are the richest resource for finding great people and for preventing a bozo explosion at your organization. If your employees aren’t motivated to bring in good staff, who is? If there’s a close call between two candidates, and one is known by an employee, you should usually take that one.
 ==========
