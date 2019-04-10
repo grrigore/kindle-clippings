@@ -17,6 +17,7 @@ with open(fileName, 'r+') as myClippingsFile:
 
 for highlight in highlights:
     bookTitle = highlight.split("(")[0]
+    bookTitle = bookTitle.replace("\ufeff", "")
     bookTitle = bookTitle[:-1] + '.txt'
     with open(bookTitle, 'a') as bookHighlights:
         bookHighlights.write("\n" + highlight)
