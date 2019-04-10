@@ -1,0 +1,560 @@
+﻿Marele Gatsby (Scott Fitzgerald)
+- Your Highlight on page 17 | Location 253-253 | Added on Wednesday, October 3, 2018 6:03:24 PM
+
+întunericul catifelat
+==========
+﻿﻿Efficient Android Threading (Anders Göransson)
+- Your Highlight on page 21 | Location 271-280 | Added on Monday, October 22, 2018 4:40:15 PM
+
+Foreground Application has a visible component in front, Service is bound to an Activity in front in a remote process, or BroadcastReceiver is running. Visible Application has a visible component but is partly obscured. Service Service is executing in the background and is not tied to a visible component. Background A nonvisible Activity. This is the process level that contains most applications. Empty A process without active components. Empty processes are kept around to improve startup times, but they are the first to be terminated when the system reclaims resources. In practice, the ranking system
+==========
+﻿Efficient Android Threading (Anders Göransson)
+- Your Highlight on page 21 | Location 271-279 | Added on Monday, October 22, 2018 4:40:22 PM
+
+Foreground Application has a visible component in front, Service is bound to an Activity in front in a remote process, or BroadcastReceiver is running. Visible Application has a visible component but is partly obscured. Service Service is executing in the background and is not tied to a visible component. Background A nonvisible Activity. This is the process level that contains most applications. Empty A process without active components. Empty processes are kept around to improve startup times, but they are the first to be terminated when the system reclaims resources.
+==========
+﻿My Clippings  
+- Your Highlight on Location 3-7 | Added on Monday, October 22, 2018 4:44:20 PM
+
+Foreground Application has a visible component in front, Service is bound to an Activity in front in a remote process, or BroadcastReceiver is running. Visible Application has a visible component but is partly obscured. Service Service is executing in the background and is not tied to a visible component. Background A nonvisible Activity. This is the process level that contains most applications. Empty A process without active components. Empty processes are kept around to improve startup times, but they are the first to be terminated when the system reclaims resources. In practice, the ranking system
+==========
+﻿Sarpele (Mircea Eliade)
+- Your Highlight on page 70 | Location 1070-1072 | Added on Wednesday, November 21, 2018 1:06:34 PM
+
+Doamnelor şi domnilor, se auzi glasul lui Andronic, petrecereapoate să reînceapă! Şarpele, animal necurat, teluric, unealtă aDiavolului pe pământ, a fost izgonit din mijlocul nostru!...
+==========
+﻿Sarpele (Mircea Eliade)
+- Your Highlight on page 70 | Location 1070-1072 | Added on Wednesday, November 21, 2018 1:07:43 PM
+
+― Doamnelor şi domnilor, se auzi glasul lui Andronic, petrecereapoate să reînceapă! Şarpele, animal necurat, teluric, unealtă aDiavolului pe pământ, a fost izgonit din mijlocul nostru!...
+==========
+﻿Sarpele (Mircea Eliade)
+- Your Highlight on page 81 | Location 1232-1239 | Added on Wednesday, November 21, 2018 1:31:49 PM
+
+― Te înşeli dacă te gândeşti la femei, la dragoste, cum se spune.Noaptea are pentru mine cu totul altă vrajă... Uite, arătă el cu braţulcerul, pădurea, astea sunt mult mai puternice decât dragostea. Şi mult mai grave.. .. Tăcu brusc, ca şi cum ar fi spus un lucru de taină.Câteva cliperămase încruntat, cu privirile oprite în gol. ― ...Mai grave, pentru că nu ştii niciodată de unde vin, unde le eînceputul şi sfârşitul... O dragoste, o femeie, o vezi în faţa ta, în patultău, chiar şi dragostea o simţi cum se naşte şi cum moare... Darlucrurile astea?... Arătă din nou noaptea, marii arbori adormiţi şi parcă îi fu şi luifrică. Manuilă simţise foarte precis turburarea lui Andronic.Într-adevăr, acum toate lucrurile păreau altfel...
+==========
+﻿Sarpele (Mircea Eliade)
+- Your Highlight on page 81 | Location 1232-1239 | Added on Wednesday, November 21, 2018 1:31:55 PM
+
+― Te înşeli dacă te gândeşti la femei, la dragoste, cum se spune.Noaptea are pentru mine cu totul altă vrajă... Uite, arătă el cu braţulcerul, pădurea, astea sunt mult mai puternice decât dragostea. Şi mult mai grave.. .. Tăcu brusc, ca şi cum ar fi spus un lucru de taină.Câteva cliperămase încruntat, cu privirile oprite în gol. ― ...Mai grave, pentru că nu ştii niciodată de unde vin, unde le eînceputul şi sfârşitul... O dragoste, o femeie, o vezi în faţa ta, în patultău, chiar şi dragostea o simţi cum se naşte şi cum moare... Darlucrurile astea?... Arătă din nou noaptea, marii arbori adormiţi şi parcă îi fu şi luifrică. Manuilă simţise foarte precis turburarea lui Andronic.Într-adevăr, acum toate lucrurile păreau altfel...
+==========
+﻿Mellonta Tauta (Edgar Allan Poe)
+- Your Highlight on page 47 | Location 708-710 | Added on Sunday, December 2, 2018 3:04:35 PM
+
+Auzisem şi eu desigur de acel student care, ca să nu adoarmă cu nasul în cărţi, ţinea în mînă o minge de aramă. Căzînd cu un zgomot asurzitor într-un lighean din acelaşi metal, aşezat lîngă scaunul lui pe podea, mingea slujea într-adevăr ca să-l trezească ori de cîte ori îl fura somnul.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 137-138 | Added on Sunday, March 24, 2019 6:19:27 PM
+
+People who feel like they were born to start, lead, and conquer.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 199-200 | Added on Sunday, March 24, 2019 6:28:19 PM
+
+Working without a plan may seem scary. But blindly following a plan that has no relationship with reality is even scarier.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 294-295 | Added on Sunday, March 24, 2019 6:41:07 PM
+
+got one of those. Stanley
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 293-297 | Added on Sunday, March 24, 2019 6:41:13 PM
+
+Think your idea's that valuable? Then go try to sell it and see what you get for it. Not much is probably the answer. Until you actually start making something, your brilliant idea is just that, an idea. And everyone's got one of those. Stanley Kubrick gave this advice to aspiring filmmakers: "Get hold of a camera and some film and make a movie of any kind at all."* Kubrick knew that when you're new at something, you need to start creating. The most important thing is to begin. So get a camera, hit Record, and start shooting.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 405-408 | Added on Sunday, March 24, 2019 10:25:41 PM
+
+A business without a path to profit isn't a business, it's a hobby. So don't use the idea of a startup as a crutch. Instead, start an actual business. Actual businesses have to deal with actual things like bills and payroll. Actual businesses worry about profit from day one. Actual businesses don't mask deep problems by saying, "It's OK, we're a startup." Act like an actual business and you'll have a much better shot at succeeding.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 425-426 | Added on Sunday, March 24, 2019 10:53:25 PM
+
+If you do manage to get a good thing going, keep it going. Good things don't come around that often. Don't let your business be the one that got away.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 475-476 | Added on Wednesday, March 27, 2019 1:13:17 AM
+
+So before you sing the "not enough" blues, see how far you can get with what you have.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 501-503 | Added on Wednesday, March 27, 2019 1:19:11 AM
+
+Details make the difference. But getting infatuated with details too early leads to disagreement, meetings, and delays. You get lost in things that don't really matter. You waste time on decisions that are going to change anyway. So ignore the details--for a while. Nail
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 501-503 | Added on Wednesday, March 27, 2019 1:19:17 AM
+
+Details make the difference. But getting infatuated with details too early leads to disagreement, meetings, and delays. You get lost in things that don't really matter. You waste time on decisions that are going to change anyway. So ignore the details--for a while. Nail the basics first and worry about the specifics later.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 551-554 | Added on Sunday, March 31, 2019 2:31:29 PM
+
+When things aren't working, the natural inclination is to throw more at the problem. More people, time, and money. All that ends up doing is making the problem bigger. The right way to go is the opposite direction: Cut back. So do less. Your project won't suffer nearly as much as you fear.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 612-612 | Added on Sunday, March 31, 2019 2:41:46 PM
+
+Put off anything you don't need for launch. Build the necessities now, worry about the luxuries later.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 716-718 | Added on Sunday, March 31, 2019 3:06:34 PM
+
+Let's say you're going to schedule a meeting that lasts one hour, and you invite ten people to attend. That's actually a ten-hour meeting, not a one-hour meeting. You're trading ten hours of productivity for one hour of meeting time.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 722-731 | Added on Sunday, March 31, 2019 3:07:32 PM
+
+If you decide you absolutely must get together, try to make your meeting a productive one by sticking to these simple rules: Set a timer. When it rings, meeting's over. Period. Invite as few people as possible. Always have a clear agenda. Begin with a specific problem. Meet at the site of the problem instead of a conference room. Point to real things and suggest real changes. End with a solution and make someone responsible for implementing it. 
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 722-730 | Added on Sunday, March 31, 2019 3:07:43 PM
+
+If you decide you absolutely must get together, try to make your meeting a productive one by sticking to these simple rules: Set a timer. When it rings, meeting's over. Period. Invite as few people as possible. Always have a clear agenda. Begin with a specific problem. Meet at the site of the problem instead of a conference room. Point to real things and suggest real changes. End with a solution and make someone responsible for implementing it.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 734-736 | Added on Sunday, March 31, 2019 3:12:05 PM
+
+A better idea: Find a judo solution, one that delivers maximum efficiency with minimum effort. Judo solutions are all about getting the most out of doing the least. Whenever you face an obstacle, look for a way to judo it.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 773-774 | Added on Sunday, March 31, 2019 3:17:16 PM
+
+If you already spent too much time on something that wasn't worth it, walk away. You can't get that time back. The worst thing you can do now is waste even more time.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 872-874 | Added on Sunday, March 31, 2019 11:50:41 PM
+
+Pour yourself into your product and everything around your product too: how you sell it, how you support it, how you explain it, and how you deliver it. Competitors can never copy the you in your product.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 929-930 | Added on Sunday, March 31, 2019 11:57:07 PM
+
+Your chances of coming up with something fresh go way down when you keep feeding your brain other people's ideas.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 931-932 | Added on Sunday, March 31, 2019 11:57:36 PM
+
+paint. If you're planning to build "the iPod killer" or "the next Pokemon," you're already dead. You're allowing the competition
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 931-934 | Added on Sunday, March 31, 2019 11:57:40 PM
+
+If you're planning to build "the iPod killer" or "the next Pokemon," you're already dead. You're allowing the competition to set the parameters. You're not going to out-Apple Apple. They're defining the rules of the game. And you can't beat someone who's making the rules. You need to redefine the rules, not just build something slightly better.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 997-998 | Added on Monday, April 1, 2019 12:08:12 AM
+
+You just bought an in-store-good product. That's a product you're more excited about in the store than you are after you've actually used it.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 1046-1048 | Added on Monday, April 1, 2019 12:17:49 AM
+
+So build an audience. Speak, write, blog, tweet, make videos--whatever. Share information that's valuable and you'll slowly but surely build a loyal audience. Then when you need to get the word out, the right people will already be listening.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 1155-1156 | Added on Monday, April 1, 2019 12:30:02 AM
+
+Marketing isn't just a few individual events. It's the sum total of everything you do.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 1184-1185 | Added on Tuesday, April 2, 2019 11:08:44 AM
+
+Try learning first.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 1213-1215 | Added on Tuesday, April 2, 2019 11:12:04 AM
+
+You need an environment where everyone feels safe enough to be honest when things get tough. You need to know how far you can push someone. You need to know what people really mean when they say something. So hire slowly.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 1213-1215 | Added on Tuesday, April 2, 2019 11:12:09 AM
+
+You need an environment where everyone feels safe enough to be honest when things get tough. You need to know how far you can push someone. You need to know what people really mean when they say something.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 1225-1228 | Added on Tuesday, April 2, 2019 11:15:22 AM
+
+So how do you find these candidates? First step: Check the cover letter. In a cover letter, you get actual communication instead of a list of skills, verbs, and years of irrelevance. There's no way an applicant can churn out hundreds of personalized letters. That's why the cover letter is a much better test than a resume. You hear someone's actual voice and are able recognize if it's in tune with you and your company.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 1310-1311 | Added on Tuesday, April 2, 2019 11:26:05 AM
+
+These companies have realized that when you get into a real work environment, the truth comes out. It's one thing to look at a portfolio, read a resume, or conduct an interview. It's another to actually work with someone.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 1357-1358 | Added on Tuesday, April 2, 2019 11:31:37 AM
+
+A good apology accepts responsibility. It has no conditional if phrase attached. It shows people that the buck stops with you. And then it provides real details about what happened and what you're doing to prevent it from happening
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 1385-1386 | Added on Tuesday, April 2, 2019 11:34:53 AM
+
+The more people you have between your customers' words and the people doing the work, the more likely it is that the message will get lost or distorted along the way.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 1398-1401 | Added on Tuesday, April 2, 2019 11:36:47 AM
+
+People are creatures of habit. That's why they react to change in such a negative way. They're used to using something in a certain way and any change upsets the natural order of things. So they push back. They complain. They demand that you revert to the way things were. But that doesn't mean you should act. Sometimes you need to go ahead with a decision you believe in, even if it's unpopular at first.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 1418-1420 | Added on Tuesday, April 2, 2019 3:13:16 PM
+
+You don't create a culture. It happens. This is why new companies don't have a culture. Culture is the byproduct of consistent behavior. If you encourage people to share, then sharing will be built into your culture. If you reward trust, then trust will be built in. If you treat customers right, then treating customers right becomes your culture.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 1426-1427 | Added on Tuesday, April 2, 2019 3:13:58 PM
+
+Don't make up problems you don't have yet. It's not a problem until it's a real problem. Most of the things you worry about never happen anyway.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 1429-1430 | Added on Tuesday, April 2, 2019 3:14:40 PM
+
+Decisions are temporary.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 1464-1464 | Added on Tuesday, April 2, 2019 4:24:06 PM
+
+You don't need more hours; you need better hours.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 1492-1493 | Added on Tuesday, April 2, 2019 4:27:12 PM
+
+Write to be read, don't write just to write. Whenever you write something, read it out loud. Does it sound the way it would if you were actually talking to someone? If not, how can you make it more conversational?
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 1498-1500 | Added on Tuesday, April 2, 2019 4:27:57 PM
+
+There are four-letter words you should never use in business. They're not fuck or shit. They're need, must, can't, easy, just, only, and fast. These words get in the way of healthy communication. They are red flags that introduce animosity, torpedo good discussions, and cause projects to be
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 1498-1500 | Added on Tuesday, April 2, 2019 4:28:01 PM
+
+There are four-letter words you should never use in business. They're not fuck or shit. They're need, must, can't, easy, just, only, and fast. These words get in the way of healthy communication. They are red flags that introduce animosity, torpedo good discussions, and cause projects to be late.
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 1502-1509 | Added on Tuesday, April 2, 2019 4:28:30 PM
+
+Here's what's wrong with some of them: Need. Very few things actually need to get done. Instead of saying "need," you're better off saying "maybe" or "What do you think about this?" or "How does this sound?" or "Do you think we could get away with that?" Can't. When you say "can't," you probably can. Sometimes there are even opposing can'ts: "We can't launch it like that, because it's not quite right" versus "We can't spend any more time on this because we have to launch." Both of those statements can't be true. Or wait a minute, can they? Easy. Easy is a word that's used to describe other people's jobs. "That should be easy for you to do, right?" But notice how rarely people describe their own tasks as easy. For you, it's "Let me look into it"--but for others, it's "Get it done."
+==========
+Rework (Jason Fried; David Heinemeier Hansson)
+- Your Highlight on Location 1512-1514 | Added on Tuesday, April 2, 2019 4:30:05 PM
+
+And these words are especially dangerous when you string them together: "We need to add this feature now. We can't launch without this feature. Everyone wants it. It's only one little thing so it will be easy. You should be able to get it in there fast!" Only thirty-six words, but a hundred assumptions. That's a recipe for disaster.
+==========
+Ferma animalelor (George Orwell)
+- Your Highlight on page 4 | Location 49-50 | Added on Wednesday, April 3, 2019 1:08:16 AM
+
+Viaţa unui animal înseamnă mizerie şi sclavie: iată adevărul curat.
+==========
+Ferma animalelor (George Orwell)
+- Your Highlight on page 4 | Location 55-55 | Added on Wednesday, April 3, 2019 1:09:11 AM
+
+aceste condiţii de mizerie? Pentru că aproape întregul produs
+==========
+Ferma animalelor (George Orwell)
+- Your Highlight on page 4 | Location 55-56 | Added on Wednesday, April 3, 2019 1:09:16 AM
+
+Iată, tovarăşi, răspunsul la toate problemele noastre. El se rezumă la un singur cuvînt: OMUL! Omul este singurul nostru duşman adevărat.
+==========
+Ferma animalelor (George Orwell)
+- Your Highlight on page 7 | Location 95-98 | Added on Wednesday, April 3, 2019 1:13:08 AM
+
+Nici un animal nu trebuie să trăiască vreodată într-o casă, sau să doarmă într-un pat, sau să poarte haine, sau să bea alcool, sau să fumeze tutun, sau să se atingă de bani, sau să se angajeze în comerţ. Toate obiceiurile Omului sînt rele. Şi, mai mult decît orice altceva, nici un animal nu trebuie vreodată să fie stăpîn peste alte fiinţe ca şi el. Slabe ori puternice, inteligente ori simple, noi, animalele, sîntem fraţi. Nici un animal nu trebuie vreodată să ucidă vreun alt animal. Toate animalele sînt egale.
+==========
+Ferma animalelor (George Orwell)
+- Your Highlight on page 10 | Location 151-155 | Added on Wednesday, April 3, 2019 1:19:25 AM
+
+Aceştia trei elaboraseră, pornind de la învăţăturile bătrînului Senior, un întreg sistem de gîndire pe care îl numiseră Animalism. Mai multe nopţi pe săptămînă, după ce domnul Jones se culca, cei trei organizau întruniri secrete în hambar şi le expuneau celorlalte animale principiile Animalismului. La început, se loviră de o teribilă prostie şi apatie. Unele animale vorbeau despre datoria de a fi loiale domnului Jones, pe care-l numeau "Stăpînul",
+==========
+Ferma animalelor (George Orwell)
+- Your Highlight on page 75 | Location 1147-1148 | Added on Saturday, April 6, 2019 12:10:57 AM
+
+fuseseră descoperite noi documente care puneau mai departe
+==========
+Ferma animalelor (George Orwell)
+- Your Highlight on page 78 | Location 1196-1197 | Added on Saturday, April 6, 2019 12:16:14 AM
+
+Intenţiona, zise el, să-şi dedice restul vieţii învăţării celorlalte douăzeci şi două de litere ale alfabetului.
+==========
+Ferma animalelor (George Orwell)
+- Your Highlight on page 84 | Location 1288-1290 | Added on Saturday, April 6, 2019 12:25:18 AM
+
+Numai bătrînul Benjamin afirma că-şi amintea fiecare amănunt al lungii lui vieţi şi că ştia că lucrurile nici nu fuseseră niciodată şi nici nu aveau să fie vreodată cu mult mai bune ori cu mult mai rele ― foamea, greutăţile şi dezamăgirea fiind, zicea el, legile de neclintit ale vieţii.
+==========
+Ferma animalelor (George Orwell)
+- Your Highlight on page 86 | Location 1310-1311 | Added on Saturday, April 6, 2019 12:28:37 AM
+
+Un porc mergea pe picioarele din spate.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 9 | Location 137-138 | Added on Saturday, April 6, 2019 11:49:33 AM
+
+1. MAKE MEANING (inspired by John Doerr). The best reason to start an organization is to make meaning—to create a product or service that makes the world a better place. So your first task is to decide how you can make meaning.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 10 | Location 139-140 | Added on Saturday, April 6, 2019 11:50:04 AM
+
+2. MAKE MANTRA. Forget mission statements; they’re long, boring, and irrelevant. No one can ever remember them—much less implement them. Instead, take your meaning and make a mantra out of it. This will set your entire team on the right course.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 10 | Location 141-142 | Added on Saturday, April 6, 2019 11:50:26 AM
+
+3. GET GOING. Start creating and delivering your product or service. Think soldering irons, compilers, hammers, saws, and AutoCAD—whatever tools you use to build products and services. Don’t focus on pitching, writing, and planning.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 10 | Location 143-144 | Added on Saturday, April 6, 2019 11:50:42 AM
+
+4. DEFINE YOUR BUSINESS MODEL. No matter what kind of organization you’re starting, you have to figure out a way to make money. The greatest idea, technology, product, or service is short-lived without a sustainable business model.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 10 | Location 144-147 | Added on Saturday, April 6, 2019 11:54:28 AM
+
+5. WEAVE A MAT (MILESTONES, ASSUMPTIONS, AND TASKS). The final step is to compile three lists: (a) major milestones you need to meet; (b) assumptions that are built into your business model; and(c) tasks you need to accomplish to create an organization. This will enforce discipline and keep your organization on track when all hell breaks loose—and all hell will break loose.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 14 | Location 212-213 | Added on Saturday, April 6, 2019 12:10:54 PM
+
+A mantra is for your employees; it’s a guideline for what they do in their jobs. A tag line is for your customers; it’s a guideline for how to use your product or service.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 14 | Location 212-213 | Added on Saturday, April 6, 2019 12:10:57 PM
+
+A mantra is for your employees; it’s a guideline for what they do in their jobs. A tag line is for your customers; it’s a guideline for how to use your product or service.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 16 | Location 245-245 | Added on Saturday, April 6, 2019 12:23:34 PM
+
+No one ever achieved success by planning for gold.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 17 | Location 252-255 | Added on Saturday, April 6, 2019 12:24:37 PM
+
+THINK BIG. Set your sights high and strive for something grand. If you’re going to change the world, you can’t do it with milquetoast and boring products or services. Shoot for doing things at least ten times better than the status quo. When Jeff Bezos started Amazon. com, he didn’t build a bookstore with a paltry 25,000 more titles than the 250,000-title brick-and-mortar bookstores. He went to 3,000,000 titles in an online bookstore.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 17 | Location 256-259 | Added on Saturday, April 6, 2019 12:25:42 PM
+
+FIND A FEW SOULMATES. History loves the notion of the sole innovator: Thomas Edison (light bulb), Steve Jobs (Macintosh), Henry Ford (Model T), Anita Roddick (The Body Shop), Richard Branson (Virgin Airlines). History is wrong. Successful companies are started, and made successful, by at least two, and usually more, soulmates. After the fact, one person may come to be recognized as the innovator,” but it always takes a team of good people to make any venture work.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 17 | Location 256-259 | Added on Saturday, April 6, 2019 12:25:45 PM
+
+FIND A FEW SOULMATES. History loves the notion of the sole innovator: Thomas Edison (light bulb), Steve Jobs (Macintosh), Henry Ford (Model T), Anita Roddick (The Body Shop), Richard Branson (Virgin Airlines). History is wrong. Successful companies are started, and made successful, by at least two, and usually more, soulmates. After the fact, one person may come to be recognized as the innovator,” but it always takes a team of good people to make any venture work.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 17 | Location 259-263 | Added on Saturday, April 6, 2019 12:32:33 PM
+
+POLARIZE PEOPLE. When you create a product or service that some people love, don’t be surprised when others hate you. Your goal is to catalyze passion—pro or anti. Don’t be offended if people take issue with what you’ve done; the only result that should offend (and scare) you is lack of interest.Car design is a good example of the love-versus-hate reaction; consider the bifurcation of people’s reactions to cars such as the Mini Cooper, Infiniti Fx45, and Toyota Scion xB. People are either devoted fans or relentless critics, and that’s good.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 23 | Location 342-346 | Added on Saturday, April 6, 2019 1:04:43 PM
+
+There are seven milestones that every startup must focus on. If you miss any of them, your organization might die. Prove your concept. Complete design specifications. Finish a prototype. Raise capital. Ship a testable version to customers. Ship the final version to customers. Achieve breakeven.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 24 | Location 357-365 | Added on Saturday, April 6, 2019 1:10:26 PM
+
+Second, create a comprehensive list of the major assumptions that you are making about the business. These include factors such as product or service performance metrics market size gross margin sales calls per salesperson conversion rate of prospects to customers length of sales cycle return on investment for the customer technical support calls per unit shipped payment cycle for receivables and payables compensation requirements prices of parts and supplies Continuously track these assumptions, and when they prove false, react to them quickly. Ideally, you can link these assumptions to one of the seven milestones discussed above. Thus, as you reach a milestone, you can test an assumption.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 24 | Location 357-365 | Added on Saturday, April 6, 2019 1:10:28 PM
+
+Second, create a comprehensive list of the major assumptions that you are making about the business. These include factors such as product or service performance metrics market size gross margin sales calls per salesperson conversion rate of prospects to customers length of sales cycle return on investment for the customer technical support calls per unit shipped payment cycle for receivables and payables compensation requirements prices of parts and supplies Continuously track these assumptions, and when they prove false, react to them quickly. Ideally, you can link these assumptions to one of the seven milestones discussed above. Thus, as you reach a milestone, you can test an assumption.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 24 | Location 366-372 | Added on Saturday, April 6, 2019 1:11:08 PM
+
+create another comprehensive list—this time of the major tasks that are necessary to design, manufacture, sell, ship, and support your product or service. These are necessary to build an organization, though they are not as critical as the seven milestones. They include renting office space finding key vendors setting up accounting and payroll systems filing legal documents purchasing insurance policies The point of the list of tasks is to understand and appreciate the totality of what your organization has to accomplish, and to not let anything slip through the cracks in the early, often euphoric days.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 33 | Location 503-504 | Added on Saturday, April 6, 2019 8:09:34 PM
+
+Drucker, Peter F. Innovation and Entrepreneurship: Practice and Principles. New York: Harper & Row, 1985.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 35 | Location 530-531 | Added on Sunday, April 7, 2019 5:38:49 PM
+
+You will learn how to do both in a short, differentiated, and powerful way in this chapter. SEIZE
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 35 | Location 533-536 | Added on Sunday, April 7, 2019 5:40:20 PM
+
+POSITIVE. Entrepreneurship isn’t war, so you don’t describe your enterprise in warlike terms. Your organization’s purpose is not to put another organization out of business. Customers don’t care if you want to destroy the competition. They want to know what benefits they derive from patronizing your company or service.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 35 | Location 536-539 | Added on Sunday, April 7, 2019 5:41:01 PM
+
+CUSTOMER-CENTRIC. Positioning is about what you do for your customers—not about what you want to become. Announcing that your organization is “the leading company” is egocentric, not customer-centric. It’s also impractical: How can you prove you’re the leader? How can you prevent another organization from declaring that it is the leader—just as you have?
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 36 | Location 539-541 | Added on Sunday, April 7, 2019 5:41:27 PM
+
+EMPOWERING. Employees must believe that what you do (that is, your positioning) makes the world a better place. The employees of eBay, for example, believe they enable people to gain financial success. This attitude empowers the employees to exceed their limits—and to enjoy doing so.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 36 | Location 546-548 | Added on Sunday, April 7, 2019 5:42:20 PM
+
+SELF-EXPLANATORY. Good positioning states its case unequivocally. It embodies such qualities as saving money and increasing revenue, as well as loftier concepts such as peace of mind, enlightenment, and joy.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 36 | Location 548-550 | Added on Sunday, April 7, 2019 5:42:52 PM
+
+SPECIFIC. Good positioning targets the intended customer. If you are the target customer, you immediately understand that. If you’re not, you understand that, too. For example, “increase the security of Web sites” is a mediocre and vague value proposition, compared to “reduce the risk of fraud for commercial banks in their online transactions.”
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 36 | Location 551-553 | Added on Sunday, April 7, 2019 5:43:23 PM
+
+CORE. The core competencies of your organization—not ancillary products or services—are the basis of good positioning. For example, Apple Computer’s positioning focuses on its ability to create innovative devices. It cannot tell a good story about information technology consulting services.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 37 | Location 553-555 | Added on Sunday, April 7, 2019 5:43:50 PM
+
+RELEVANT. The flip side of an organization’s core competencies is the core needs of customers. If your core competencies and their core needs aren’t well matched, your organization and your positioning will not be attractive to them.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 37 | Location 555-557 | Added on Sunday, April 7, 2019 5:44:31 PM
+
+LONG-LASTING. Bad positioning for IBM in its early years would have been “Provide cash registers to stores.” Even worse was the decision to name a company National Cash Register.* Aim for positioning that will last one hundred years.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 37 | Location 557-560 | Added on Sunday, April 7, 2019 5:45:51 PM
+
+DIFFERENTIATED. Your positioning should not sound like your competitor’s. Unfortunately, many companies craft positioning as if there is no competition—or as if the only competition is totally incompetent. This is seldom the case. (More about this in the section “Apply the Opposite Test” later in this chapter.)
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 38 | Location 578-580 | Added on Sunday, April 7, 2019 5:48:49 PM
+
+As a startup, you’re trying to start a fire with matches, not flamethrowers. (Hence, the design of this book’s cover.) Few startup organizations can afford or manage a flamethrower. In other words, put one niche in your basket, hatch it, put another niche in your basket, hatch it…and soon you’ll have a whole bunch of niches that add up to market domination.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 39 | Location 598-607 | Added on Sunday, April 7, 2019 5:52:22 PM
+
+Spend the time and effort to come up with a good name—it makes positioning easier. Here are some tips for the process: HAVE A FIRST INITIAL THAT’S EARLY IN THE ALPHABET. Someday your organization’s, product’s, or service’s name will appear in an alphabetical list. Better to be early in the list than later. Imagine, for example, a trade show with a thousand exhibitors. Do you want to be in the first third or last third of the show’s directory?Also, avoid words that begin with X or Z because they are difficult to spell out after hearing them. For example, if you heard “Xylinx,” would you think that it’s spelled “Xylinx” or “Zylinx”? AVOID NUMBERS. They are bad ideas for names because people won’t remember whether to use numerals (123) or to spell out the number (One Two Three). PICK A NAME WITH “VERB POTENTIAL.” In a perfect world, your name enters the mainstream vernacular and becomes a verb. For example, people “xerox” documents—as opposed to photocopy them.More recently, people “google” words instead of “searching for them on the Internet.” Names that work as verbs are short (no more than two or three syllables) and not tongue twisters.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 40 | Location 608-609 | Added on Sunday, April 7, 2019 5:53:58 PM
+
+EXERCISE See if the name you’re considering works in this sentence: “__________ it.”
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 40 | Location 610-613 | Added on Sunday, April 7, 2019 6:01:52 PM
+
+AWOA (a word on acronyms): Avoid multiple-word names unless the first word has solid verb potential (for example, “Google Technology Corporation” would still be fine) or the acronym spells out something clever. For example, the name Hawaiian Islands Ministry, a parachurch organization that trains pastors and ministers, becomes “HIM”—a clever homonym with “hymn” and a play on “Him,” that is, God.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 40 | Location 614-626 | Added on Sunday, April 7, 2019 6:02:48 PM
+
+SOUND DIFFERENT (AS OPPOSED TO “THINK DIFFERENT”). The name should sound like nothing else. For (a bad) example: Claris, Clarins, Claritin, and Claria. It’s hard to remember which name refers to software, cosmetics, antihistamines, or online marketing. Even if you did remember, it’s likely that you would associate all four words with one category, and that can’t be good in three of four instances. SOUND LOGICAL. In addition to sounding different, your names should also sound logical. That is, they should “match” what you do. A good example of this is the names of the Pokémon characters. They are among the most clever examples of naming that you’ll come across. Take Geodude and Lickitung, for example.Ask your kids to show you the cards of the characters Beautifly, Delcatty, Flygon, and Huntail, and you’ll see what I mean about logical names and good positioning. AVOID THE TRENDY. With hindsight, we made two mistakes naming Garage Technology Ventures when we started it in 1997. First, we initially called the company “garage.com.” Unfortunately, dotcom acquired negative connotations when the Internet tide went out because it came to stand for companies run by people without business acumen in markets without business models.The second mistake was lowercasing the “g” in garage.com. It was a silly act of pseudohumility, but those were silly times. The problem with the lowercase “g” was that it was hard to pick it out in blocks of text. The visual cue that the word was a proper noun wasn’t there—you’d think that someone named guy (sic) would know this. Also, no one could really figure out what to do when a sentence started with “garage.com”—should it be capitalized or not?
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 42 | Location 640-641 | Added on Sunday, April 7, 2019 6:08:34 PM
+
+Position your product or service in the most personal way that you can.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 44 | Location 662-664 | Added on Sunday, April 7, 2019 6:28:31 PM
+
+No matter what you’re selling or who you’re selling it to, use plain words to describe what you do. Whatever jargon is the lingua franca of your industry, remember that a lot more people than insiders need to understand what you do.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 44 | Location 669-671 | Added on Sunday, April 7, 2019 6:30:10 PM
+
+To see what I mean, apply the Opposite Test: Do you describe your offering in a way that is opposite to that of your competition? If you do, then you’re saying something different. If you don’t, then your descriptions are impotent.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 44 | Location 674-680 | Added on Sunday, April 7, 2019 6:31:53 PM
+
+ADJECTIVE PROOF POINT Intuitive You can set it up in one day, and end users need no training. Secure No one has ever hacked it. Fast Real-world results show a fivefold improvement in throughput. Scalable It has handled as many as 20,000 transactions per second.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 50 | Location 764-765 | Added on Monday, April 8, 2019 12:48:14 AM
+
+Bill Joos, my colleague at Garage, told me that when he started his career at IBM, the company trained him to imagine there was a little man sitting on his shoulder during presentations. Every time Bill said something, the little man would whisper, “So what?” to him.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 52 | Location 792-792 | Added on Monday, April 8, 2019 12:48:52 AM
+
+The foundation of a great pitch is the research that you do before the meeting starts.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 53 | Location 808-811 | Added on Monday, April 8, 2019 12:50:33 AM
+
+I’ve never heard a pitch that was too short. A pitch can’t be too short because a good one will motivate listeners to ask questions that extend it. Here is a good guideline for the content, length, and font of a good pitch: ten slides twenty minutes thirty-point–font text
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 55 | Location 842-843 | Added on Monday, April 8, 2019 12:54:17 AM
+
+A good rule of thumb for font size is to divide the oldest investor’s age by two, and use that font size.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 60 | Location 920-921 | Added on Monday, April 8, 2019 12:58:18 AM
+
+Each slide should portray one primary point.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 63 | Location 952-954 | Added on Monday, April 8, 2019 12:59:24 AM
+
+Use slides to lead, not read. They should paraphrase and enhance what’s coming out of your mouth. Because people can read faster than you talk, if you put too much detail on the slide, the audience will read ahead of you and not listen to what you’re saying.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 67 | Location 1024-1024 | Added on Monday, April 8, 2019 1:06:51 AM
+
+There are very few people who don’t become more interesting when they stop talking.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 69 | Location 1055-1056 | Added on Monday, April 8, 2019 1:10:05 AM
+
+Videotape yourself giving your pitch. If you can watch it without being embarrassed, you’re ready to
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 69 | Location 1055-1056 | Added on Monday, April 8, 2019 1:10:09 AM
+
+Videotape yourself giving your pitch. If you can watch it without being embarrassed, you’re ready to go.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 70 | Location 1060-1083 | Added on Monday, April 8, 2019 1:11:39 AM
+
+Before you cut yourself, heed this advice about the art of using PowerPoint as a means to an end. USE A DARK BACKGROUND. A dark background communicates seriousness and substance. A white or light background looks cheap and amateurish. Also, staring at a harsh white presentation for forty-five minutes gets tiring for the eyes. Think about this: Have you ever seen movie credits that use black text on a white background? ADD YOUR LOGO TO THE MASTER PAGE. Every presentation is a chance to build brand awareness for your organization, so put your logo on the master slide page. By doing this, your logo will appear on every slide. USE COMMON, SANS SERIF FONTS. A presentation is not the place to show that you’ve accumulated the world’s largest collection of fonts. Use common fonts because someday your presentation may need to be given on a computer that has a different collection of fonts than your computer has. Also, use sans serif fonts because they are much easier to read than the delicate serif font you love. You can never go wrong with Arial. ANIMATE YOUR BODY, NOT YOUR SLIDES. PowerPoint has more than sixty ways to animate text and graphics. This is about fifty-nine too many. Many entrepreneurs use animations and transitions between slides to jazz up their presentations. Do you really think that a “faded fly-in from the bottom left” is going to make a presentation better? Do yourself a favor: Don’t use fancy animations. Use your body, not PowerPoint, to communicate expressiveness, emotion, and enthusiasm. Generally speaking, if you think something is cool, cut it. “BUILD” BULLETS. Most entrepreneurs don’t use bullets. They display and read big blocks of long text. That’s a mistake. Use bullets instead: short bursts of text that capture the main point. Even when entrepreneurs use bullets, they put them all up at once. That’s also a mistake. Build your bullets: click, bullet 1, explain; click, bullet 2, explain; click, bullet 3, explain. This is the only time you should use animation, and I recommend using the simple “appear” animation at that. USE ONLY ONE LEVEL OF BULLETS. The use of bullets with bullets means that you’re trying to communicate too much information on a slide or that your thinking is fuzzy. Each slide should communicate one point, with bullets to support that point. If you observe the 30 part of the 10/20/30 rule, it will be hard to have bullets with bullets, anyway. ADD DIAGRAMS AND GRAPHS. Better a bullet than a block of text, but better a diagram or graph than a bullet. Use diagrams to explain how your business works. Use graphs to explain trends and numerical results. And build your diagrams and pictures by bringing in these elements with clicks, just like bullets. MAKE PRINTABLE SLIDES. There is a cautionary aspect to adding diagrams and graphics. Sometimes these objects build upon, and cover, previous ones. This is okay during a presentation but not when printed, so ensure that your slides work for this use, too.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 72 | Location 1090-1091 | Added on Monday, April 8, 2019 1:15:22 AM
+
+To develop a memorable pitch, imagine that your audience is at the end of a long day of boring meetings; everyone is barely awake, much less attentive; and people just want to go home. More often than not, this is what you’ll walk into, so be prepared for
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 72 | Location 1090-1091 | Added on Monday, April 8, 2019 1:15:26 AM
+
+To develop a memorable pitch, imagine that your audience is at the end of a long day of boring meetings; everyone is barely awake, much less attentive; and people just want to go home. More often than not, this is what you’ll walk into, so be prepared for it.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 75 | Location 1150-1155 | Added on Monday, April 8, 2019 8:25:27 PM
+
+As a refresher, these are the ten slides that are necessary in a good pitch for investors: Title slide Problem Solution Business model Underlying magic Marketing and sales Competition Management team Financial projections and key metrics Current status, accomplishments to date, timeline, and use of funds
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 93 | Location 1416-1417 | Added on Monday, April 8, 2019 11:41:23 PM
+
+This logic of focusing on function, not form, applies to almost every element of a startup organization.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 96 | Location 1466-1466 | Added on Monday, April 8, 2019 11:47:24 PM
+
+Worse, you’ll lose your credibility, and credibility is hard to regain.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 101 | Location 1543-1563 | Added on Monday, April 8, 2019 11:58:10 PM
+
+SET AND COMMUNICATE GOALS. The simple act of setting goals and communicating them increases the likelihood that your organization will achieve them. It gets everyone on the same page and provides a day-to-day guide for what employees need to do. This applies to every task: finalizing specifications, building a prototype, signing up early customers, shipping, collecting, recruiting, finishing marketing materials…the list is endless. MEASURE PROGRESS. Goals only work if you measure progress. As the old saying goes, “What gets measured gets done.” This also means you’d better pick the right goals, or the wrong things will get done. In a startup, you should measure and report results every thirty days. As your organization gets older and more deliberate, you can shift to a quarterly schedule. ESTABLISH A SINGLE POINT OF ACCOUNTABILITY. If it takes more than ten seconds to figure out who is responsible for achieving a goal, something is wrong. Good people accept accountability. Great people ask for it. For the good of your entire organization, establish it. A person who knows he is being measured and held accountable is highly motivated to succeed. REWARD THE ACHIEVERS. The people you reward in a startup are the ones who deliver. You can use options, money, public praise, days off, or free lunches—it doesn’t matter. What does matter is that you recognize achievers—and only achievers, not the people who are along for the ride. FOLLOW THROUGH UNTIL AN ISSUE IS DONE OR IRRELEVANT. We all like to work on the newest, hottest stuff. It’s human nature. Who wouldn’t rather be involved with the next breakthrough product rather than fixing the current one? Don’t stop when something simply gets boring. Fixing bugs may be boring to you, but it’s not to the customer who recently bought your product. HEED MORPHEUS. Realism is the ally of execution, so pay attention to what your Morpheus says. Everyone in a given company is in denial about something. Some denial is good for an entrepreneur—for example, denying that the “experts” are right when they say you can’t succeed. The critical issue is whether the denial is ultimately going to hurt the organization. Insist on realism, and your organization will bootstrap better. ESTABLISH A CULTURE OF EXECUTION. Execution is not a onetime event. Nor is it a process where you check off goals as if your sixth-grade teacher were looking over your shoulder. Rather, execution is a culture that produces a set of organizationwide habits. The only way to establish this culture is for the CEO to set the right example: answering inquiries, solving problems, and promoting people who deliver results. This sends an unmistakable message: Execution counts in this organization.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 106 | Location 1612-1640 | Added on Wednesday, April 10, 2019 5:41:01 PM
+
+I can provide five ways to avoid hiring the wrong people: DON’T CONFUSE CORRELATION AND CAUSATION. A candidate may have worked at an organization when it achieved success; this doesn’t necessarily mean he contributed to the success. He could have just been along for the ride. The rising tide floats all boats. To separate the eagles from the dodos, find out what specific projects the candidate managed and analyze his results. Also, try to find someone inside the company who worked with the person to see if the candidate caused or correlated. DON’T CONFUSE BIG-ORGANIZATION SKILLS WITH NEW-ORGANIZATION SKILLS. Success in a big organization doesn’t guarantee success in a startup. The skills needed in each context are different. A vice president of Microsoft (with its established brand, infinite resources, and 100 percent market share) may not be the right person for a “two guys in a garage” operation. BIG ORGANIZATION SKILLS STARTUP SKILLS Sucking up to the boss Being the boss Generating paper profits Generating cash flow Beating charges of monopoly Establishing a beachhead Evolving products and services Creating products and services Market research Shipping Squeezing the distribution channel Establishing a distribution channel DRAMATIZE YOUR EXPECTATIONS. Make it crystal clear that working in a startup is different from what they might be used to in their previous organization: “Can you function without a secretary, fly coach, and stay in cheap motels?” You might scare off a few desirable candidates this way, but it’s worth risking this to avoid ending up with people who cannot function in a startup atmosphere. READ THE TEA LEAVES WHEN CHECKING REFERENCES. Because the laws in the United States prevent providing job references that may damage a candidate’s ability to get a job, whenever you don’t get a reference that’s superlative, you are in effect getting a negative one. If the reference sends you to the human resources department, then you know the candidate had problems. (See the end of this chapter for more on reference checking.) TRUST THE RICHEST VEIN. Your current employees are the richest resource for finding great people and for preventing a bozo explosion at your organization. If your employees aren’t motivated to bring in good staff, who is? If there’s a close call between two candidates, and one is known by an employee, you should usually take that one.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 106 | Location 1612-1640 | Added on Wednesday, April 10, 2019 5:43:23 PM
+
+I can provide five ways to avoid hiring the wrong people: DON’T CONFUSE CORRELATION AND CAUSATION. A candidate may have worked at an organization when it achieved success; this doesn’t necessarily mean he contributed to the success. He could have just been along for the ride. The rising tide floats all boats. To separate the eagles from the dodos, find out what specific projects the candidate managed and analyze his results. Also, try to find someone inside the company who worked with the person to see if the candidate caused or correlated. DON’T CONFUSE BIG-ORGANIZATION SKILLS WITH NEW-ORGANIZATION SKILLS. Success in a big organization doesn’t guarantee success in a startup. The skills needed in each context are different. A vice president of Microsoft (with its established brand, infinite resources, and 100 percent market share) may not be the right person for a “two guys in a garage” operation. BIG ORGANIZATION SKILLS STARTUP SKILLS Sucking up to the boss Being the boss Generating paper profits Generating cash flow Beating charges of monopoly Establishing a beachhead Evolving products and services Creating products and services Market research Shipping Squeezing the distribution channel Establishing a distribution channel DRAMATIZE YOUR EXPECTATIONS. Make it crystal clear that working in a startup is different from what they might be used to in their previous organization: “Can you function without a secretary, fly coach, and stay in cheap motels?” You might scare off a few desirable candidates this way, but it’s worth risking this to avoid ending up with people who cannot function in a startup atmosphere. READ THE TEA LEAVES WHEN CHECKING REFERENCES. Because the laws in the United States prevent providing job references that may damage a candidate’s ability to get a job, whenever you don’t get a reference that’s superlative, you are in effect getting a negative one. If the reference sends you to the human resources department, then you know the candidate had problems. (See the end of this chapter for more on reference checking.) TRUST THE RICHEST VEIN. Your current employees are the richest resource for finding great people and for preventing a bozo explosion at your organization. If your employees aren’t motivated to bring in good staff, who is? If there’s a close call between two candidates, and one is known by an employee, you should usually take that one.
+==========
