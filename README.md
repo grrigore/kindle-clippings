@@ -1,11 +1,26 @@
 # kindle-clippings
 reorganize kindle clippings
 
+# To do
+
 To do:
-* remove extra characters
+* ~~remove extra characters~~
 * get book title
+* get authors
 * format text
+* [generate zip](https://stackoverflow.com/a/25650295/7972851)
+
+* search by author
+* search by book title
+* search by keywork
+
+* filter by author
+* filter by book title
+
 * website
+
+![](res/mindmap.png)
+
 
 
 # Social
