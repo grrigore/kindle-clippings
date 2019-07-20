@@ -19,6 +19,8 @@ To do:
 
 * website
 
+# Mindmap
+
 ![](res/mindmap.png)
 
 
