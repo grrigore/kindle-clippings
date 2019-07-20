@@ -1,5 +1,6 @@
 import sys
 import os
+import re
 
 
 def createDirectory(directory):
@@ -10,11 +11,18 @@ def createDirectory(directory):
         print ('Error: Creating directory. ' + directory)
 
 
+def getAuthor(bookTitle):
+    bracketsContent = re.findall('(?<=\\().+?(?=\\))', bookTitle)
+    author = bracketsContent[-1]
+    return author
+
+
 # MyClippings.txt file path
 fileName = sys.argv[1]
 
 highlightSeparator = "==========\n"
 highlights = []
+authors = []
 
 # Read from MyClippings.txt
 with open(fileName, 'r+') as myClippingsFile:
@@ -26,8 +34,12 @@ createDirectory("My Clippings")
 
 # Write in directory
 for highlight in highlights:
-    bookTitle = highlight.split("\n")[0]
-    bookTitle = bookTitle + '.txt'
+    highlightTitle = highlight.split("\n")[0]
+    author = getAuthor(highlightTitle)
+    authors.append(author)
+    bookTitle = highlightTitle.split("(" + author + ")")[0]
+    print("Author:" + author + " Title: " + bookTitle)
+    bookTitle = bookTitle[:-1] + '.txt'
     bookTitle = bookTitle.replace("\ufeff", "")
     bookTitle = bookTitle.replace("\u0000", "")
     with open("My Clippings/" + bookTitle, 'a') as bookHighlights:
