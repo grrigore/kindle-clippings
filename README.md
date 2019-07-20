@@ -1,12 +1,16 @@
 # kindle-clippings
-reorganize kindle clippings
+![](https://img.shields.io/badge/status-postponed-yellow.svg)
+
+reorganize kindle clippings - python script that extracts clippings by book's title
+
+requires python3
 
 # To do
 
 To do:
 * ~~remove extra characters~~
-* get book title
-* get authors
+* ~~get book title~~
+* ~~get authors~~
 * format text
 * [generate zip](https://stackoverflow.com/a/25650295/7972851)
 

@@ -13,11 +13,6 @@ Foreground Application has a visible component in front, Service is bound to an 
 
 Foreground Application has a visible component in front, Service is bound to an Activity in front in a remote process, or BroadcastReceiver is running. Visible Application has a visible component but is partly obscured. Service Service is executing in the background and is not tied to a visible component. Background A nonvisible Activity. This is the process level that contains most applications. Empty A process without active components. Empty processes are kept around to improve startup times, but they are the first to be terminated when the system reclaims resources.
 ==========
-﻿My Clippings  
-- Your Highlight on Location 3-7 | Added on Monday, October 22, 2018 4:44:20 PM
-
-Foreground Application has a visible component in front, Service is bound to an Activity in front in a remote process, or BroadcastReceiver is running. Visible Application has a visible component but is partly obscured. Service Service is executing in the background and is not tied to a visible component. Background A nonvisible Activity. This is the process level that contains most applications. Empty A process without active components. Empty processes are kept around to improve startup times, but they are the first to be terminated when the system reclaims resources. In practice, the ranking system
-==========
 ﻿Sarpele (Mircea Eliade)
 - Your Highlight on page 70 | Location 1070-1072 | Added on Wednesday, November 21, 2018 1:06:34 PM
 
@@ -106,7 +101,7 @@ Let's say you're going to schedule a meeting that lasts one hour, and you invite
 Rework (Jason Fried; David Heinemeier Hansson)
 - Your Highlight on Location 722-731 | Added on Sunday, March 31, 2019 3:07:32 PM
 
-If you decide you absolutely must get together, try to make your meeting a productive one by sticking to these simple rules: Set a timer. When it rings, meeting's over. Period. Invite as few people as possible. Always have a clear agenda. Begin with a specific problem. Meet at the site of the problem instead of a conference room. Point to real things and suggest real changes. End with a solution and make someone responsible for implementing it. 
+If you decide you absolutely must get together, try to make your meeting a productive one by sticking to these simple rules: Set a timer. When it rings, meeting's over. Period. Invite as few people as possible. Always have a clear agenda. Begin with a specific problem. Meet at the site of the problem instead of a conference room. Point to real things and suggest real changes. End with a solution and make someone responsible for implementing it.
 ==========
 Rework (Jason Fried; David Heinemeier Hansson)
 - Your Highlight on Location 722-730 | Added on Sunday, March 31, 2019 3:07:43 PM

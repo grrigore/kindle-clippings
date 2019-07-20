@@ -38,7 +38,6 @@ for highlight in highlights:
     author = getAuthor(highlightTitle)
     authors.append(author)
     bookTitle = highlightTitle.split("(" + author + ")")[0]
-    print("Author:" + author + " Title: " + bookTitle)
     bookTitle = bookTitle[:-1] + '.txt'
     bookTitle = bookTitle.replace("\ufeff", "")
     bookTitle = bookTitle.replace("\u0000", "")
