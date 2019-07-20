@@ -3,10 +3,20 @@
 
 întunericul catifelat
 ==========
+﻿﻿Efficient Android Threading (Anders Göransson)
+- Your Highlight on page 21 | Location 271-280 | Added on Monday, October 22, 2018 4:40:15 PM
+
+Foreground Application has a visible component in front, Service is bound to an Activity in front in a remote process, or BroadcastReceiver is running. Visible Application has a visible component but is partly obscured. Service Service is executing in the background and is not tied to a visible component. Background A nonvisible Activity. This is the process level that contains most applications. Empty A process without active components. Empty processes are kept around to improve startup times, but they are the first to be terminated when the system reclaims resources. In practice, the ranking system
+==========
 ﻿Efficient Android Threading (Anders Göransson)
 - Your Highlight on page 21 | Location 271-279 | Added on Monday, October 22, 2018 4:40:22 PM
 
 Foreground Application has a visible component in front, Service is bound to an Activity in front in a remote process, or BroadcastReceiver is running. Visible Application has a visible component but is partly obscured. Service Service is executing in the background and is not tied to a visible component. Background A nonvisible Activity. This is the process level that contains most applications. Empty A process without active components. Empty processes are kept around to improve startup times, but they are the first to be terminated when the system reclaims resources.
+==========
+﻿My Clippings  
+- Your Highlight on Location 3-7 | Added on Monday, October 22, 2018 4:44:20 PM
+
+Foreground Application has a visible component in front, Service is bound to an Activity in front in a remote process, or BroadcastReceiver is running. Visible Application has a visible component but is partly obscured. Service Service is executing in the background and is not tied to a visible component. Background A nonvisible Activity. This is the process level that contains most applications. Empty A process without active components. Empty processes are kept around to improve startup times, but they are the first to be terminated when the system reclaims resources. In practice, the ranking system
 ==========
 ﻿Sarpele (Mircea Eliade)
 - Your Highlight on page 70 | Location 1070-1072 | Added on Wednesday, November 21, 2018 1:06:34 PM
@@ -96,7 +106,7 @@ Let's say you're going to schedule a meeting that lasts one hour, and you invite
 Rework (Jason Fried; David Heinemeier Hansson)
 - Your Highlight on Location 722-731 | Added on Sunday, March 31, 2019 3:07:32 PM
 
-If you decide you absolutely must get together, try to make your meeting a productive one by sticking to these simple rules: Set a timer. When it rings, meeting's over. Period. Invite as few people as possible. Always have a clear agenda. Begin with a specific problem. Meet at the site of the problem instead of a conference room. Point to real things and suggest real changes. End with a solution and make someone responsible for implementing it.
+If you decide you absolutely must get together, try to make your meeting a productive one by sticking to these simple rules: Set a timer. When it rings, meeting's over. Period. Invite as few people as possible. Always have a clear agenda. Begin with a specific problem. Meet at the site of the problem instead of a conference room. Point to real things and suggest real changes. End with a solution and make someone responsible for implementing it. 
 ==========
 Rework (Jason Fried; David Heinemeier Hansson)
 - Your Highlight on Location 722-730 | Added on Sunday, March 31, 2019 3:07:43 PM
@@ -548,5 +558,333 @@ The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting
 
 I can provide five ways to avoid hiring the wrong people: DON’T CONFUSE CORRELATION AND CAUSATION. A candidate may have worked at an organization when it achieved success; this doesn’t necessarily mean he contributed to the success. He could have just been along for the ride. The rising tide floats all boats. To separate the eagles from the dodos, find out what specific projects the candidate managed and analyze his results. Also, try to find someone inside the company who worked with the person to see if the candidate caused or correlated. DON’T CONFUSE BIG-ORGANIZATION SKILLS WITH NEW-ORGANIZATION SKILLS. Success in a big organization doesn’t guarantee success in a startup. The skills needed in each context are different. A vice president of Microsoft (with its established brand, infinite resources, and 100 percent market share) may not be the right person for a “two guys in a garage” operation. BIG ORGANIZATION SKILLS STARTUP SKILLS Sucking up to the boss Being the boss Generating paper profits Generating cash flow Beating charges of monopoly Establishing a beachhead Evolving products and services Creating products and services Market research Shipping Squeezing the distribution channel Establishing a distribution channel DRAMATIZE YOUR EXPECTATIONS. Make it crystal clear that working in a startup is different from what they might be used to in their previous organization: “Can you function without a secretary, fly coach, and stay in cheap motels?” You might scare off a few desirable candidates this way, but it’s worth risking this to avoid ending up with people who cannot function in a startup atmosphere. READ THE TEA LEAVES WHEN CHECKING REFERENCES. Because the laws in the United States prevent providing job references that may damage a candidate’s ability to get a job, whenever you don’t get a reference that’s superlative, you are in effect getting a negative one. If the reference sends you to the human resources department, then you know the candidate had problems. (See the end of this chapter for more on reference checking.) TRUST THE RICHEST VEIN. Your current employees are the richest resource for finding great people and for preventing a bozo explosion at your organization. If your employees aren’t motivated to bring in good staff, who is? If there’s a close call between two candidates, and one is known by an employee, you should usually take that one.
 ==========
-fect getting a negative one. If the reference sends you to the human resources department, then you know the candidate had problems. (See the end of this chapter for more on reference checking.) TRUST THE RICHEST VEIN. Your current employees are the richest resource for finding great people and for preventing a bozo explosion at your organization. If your employees aren’t motivated to bring in good staff, who is? If there’s a close call between two candidates, and one is known by an employee, you should usually take that one.
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 126 | Location 1920-1920 | Added on Thursday, April 11, 2019 9:44:07 PM
+
+Dream on.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 131 | Location 1994-1995 | Added on Thursday, April 11, 2019 10:22:31 PM
+
+The lesson is this: Clean up your problems or disclose
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 131 | Location 1994-1995 | Added on Thursday, April 11, 2019 10:22:35 PM
+
+The lesson is this: Clean up your problems or disclose your problems, but never hide your problems.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 131 | Location 1996-2000 | Added on Sunday, April 14, 2019 3:03:54 AM
+
+Many entrepreneurs believe that investors want to hear that the organization has no competition. Unfortunately, sophisticated investors reach one or both of the following conclusions if entrepreneurs make such claims: There’s no competition because there’s no market. If there were a market, there would be others trying to win it. The founders are so clueless that they can’t even use Google to figure out that ten other companies are doing the same thing.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 133 | Location 2039-2039 | Added on Sunday, April 14, 2019 3:05:58 AM
+
+Pick something, because saying you have no competition at all is a nonstarter.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 134 | Location 2048-2112 | Added on Sunday, April 14, 2019 3:07:58 AM
+
+Lie #1: “Our projection is conservative.” Not only is your projection conservative, but you’ll be doing $100 million by year 3. In fact, the company is going to be the fastest-growing company in the history of mankind. Your projection isn’t conservative. Frankly, you have no clue what your sales will be. I fantasize about the day an entrepreneur tells me, “Frankly, our projection is a number we’re picking out of the air. We’re trying to make them high enough to interest you, but low enough so that we don’t look like idiots. We really will have no clue until we ship the product and see how it’s accepted.” At least that entrepreneur is honest.   Lie #2: “Gartner (Forrester, Jupiter, or Yankee Group) says our market will be $50 billion in five years.”   In Chapter 3 (“The Art of Pitching”), I discussed what listeners think when entrepreneurs try to “prove” market size, and I advocated “peeling away the onion” or catalyzing fantasy instead. To repeat my advice: Don’t cite these numbers and expect to impress investors. No one comes in and says, “We’re in a crappy little market.” Everyone does what you do. Lie #3: “Boeing is signing our contract next week.” As I said, traction is good. It really makes you fundable. But until a contract is signed, it’s not signed. When the investor checks in a week, and the contract isn’t signed, you’ve got a real problem. In five years, I’ve never seen a contract signed on time. Talk about Boeing and your big deals after they’re done. In general, make sure that all surprises to investors are upside surprises. Lie #4: “Key employees will join us as soon as we get funded.” Let me get this straight: You’re two guys in a garage, you’re trying to raise a few hundred thousand dollars, your product is twelve months from completion, and you’re telling me that these well-known people are going to resign their $250,000 per year, plus bonus, plus stock option jobs to join your company? When we’ve checked with these key employees about whether they’re in fact all set to join the company, the response, more often than not, is, “I vaguely remember meeting the CEO at a cocktail party.” If you’re going to tell this lie, make sure that these potential employees are locked and loaded and ready to quit. Lie #5: “Several investors are already in due diligence.” That is, “If you don’t hurry, someone else will invest in us, and you won’t have the chance.” This works well in times of irrational exuberance, but it is generally a laughable tactic. The reality, and what the listener is thinking, is You’ve pitched a few other investors, and they haven’t gotten around to rejecting you yet. The odds are that the investors know one another better than you know them. They can easily call up their buddies and find out how interested another firm is in your deal. To pull this lie off, you’d better be either a great bluffer or smokin’ hot, or you won’t have a chance against the investor network. Lie #6: “Procter & Gamble is too old, big, dumb, and slow to be a threat.” Procter & Gamble, Microsoft, Oracle, Ford…pick a successful company. Many entrepreneurs think that by making such a statement, they are (a) convincing the investor of their moxie, (b) proving that they can defeat an entrenched competitor, and (c) establishing a competitive advantage. In reality, they are showing how naïve they are about what it takes to build a successful business. There’s a reason why people such as Larry Ellison can keep the San Jose airport open late for their private jets while you and I are munching peanuts on Southwest Airlines. And it’s not because they are old, big, dumb, and slow. It’s scary enough to investors that you are competing with an established company. Don’t seal your coffin by showing how clueless you are by denigrating such competition. Instead, build the case for these kinds of alternatives: partnering with the competition flying under its radar addressing a niche that it can’t or won’t address Lie #7: “Patents make our business defensible.” Patents do not make a business defensible. They might provide a temporary competitive advantage—particularly in material science, medical devices, and biotech companies—but that’s about it. Garage, for example, has a patent on the process of investors and entrepreneurs using the Internet to catalyze investments. Do I sleep better at night because of this? Has it prevented investment banks, laid-off investment bankers, and consultants from using the Internet to connect buyers and sellers of private placements? Would we try to enforce the patent? The answers are, respectively, no, no, and no. By all means, file for patents if you can, but don’t depend on them for much more than impressing your parents unless you have the time (years) and money (millions) to go to court. If Apple and the U.S. Department of Justice can’t beat Microsoft in court, you can’t, either. When talking to investors, the optimal number of times to mention that your technology is patentable is one. Zero is bad because it implies you don’t have anything proprietary. More than one mention means that you’re inexperienced and think patents make your business defensible. Lie #8: “All we have to do is get 1 percent of the market.” This is what venture capitalists call the Chinese Soda Lie. That is, “If just 1 percent of the people in China drink our soda, we will be more successful than any company in the history of mankind.” There are four problems with this line of reasoning: It’s not that easy to get 1 percent of the people in China to drink your soda. Very few entrepreneurs are truly going after a market as large as all the people in China. The company that came in before you said something similar about another market. So will the company after you. A company that is shooting for only 1 percent market share isn’t interesting.* The right thing to do, as I discussed earlier, is to either come up with a believable total addressable market figure or catalyze fantasy so the investor can come up with a number himself. But saying that all you have to do is get 1 percent of a big market labels you a bozo. Lie #9: “We have first-mover advantage.” There are at least two problems with this lie. First, it may not actually be true. How can you possibly know that no one else is doing what you’re doing? As a rule of thumb, if you’re doing something good, five other organizations are doing the same thing. If you’re doing something great, ten are. Second, first-mover advantage isn’t all that it’s cracked up to be. Being a “fast second” might be better—let someone else pioneer the concept, learn from their mistakes, and leapfrog them. Lie #10: “We have a world-class, proven team.” The acceptable definition of world-class and proven in this context is that the founders created enormous wealth for investors in a previous company, or they held positions in highly respected, publicly traded companies. Riding the tornado of a successful company in a minor role, working for McKinsey as a consultant, or putting in a couple of years at Morgan Stanley doesn’t count as a proven background.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 134 | Location 2048-2112 | Added on Sunday, April 14, 2019 3:14:36 AM
+
+Lie #1: “Our projection is conservative.” Not only is your projection conservative, but you’ll be doing $100 million by year 3. In fact, the company is going to be the fastest-growing company in the history of mankind. Your projection isn’t conservative. Frankly, you have no clue what your sales will be. I fantasize about the day an entrepreneur tells me, “Frankly, our projection is a number we’re picking out of the air. We’re trying to make them high enough to interest you, but low enough so that we don’t look like idiots. We really will have no clue until we ship the product and see how it’s accepted.” At least that entrepreneur is honest.   Lie #2: “Gartner (Forrester, Jupiter, or Yankee Group) says our market will be $50 billion in five years.”   In Chapter 3 (“The Art of Pitching”), I discussed what listeners think when entrepreneurs try to “prove” market size, and I advocated “peeling away the onion” or catalyzing fantasy instead. To repeat my advice: Don’t cite these numbers and expect to impress investors. No one comes in and says, “We’re in a crappy little market.” Everyone does what you do. Lie #3: “Boeing is signing our contract next week.” As I said, traction is good. It really makes you fundable. But until a contract is signed, it’s not signed. When the investor checks in a week, and the contract isn’t signed, you’ve got a real problem. In five years, I’ve never seen a contract signed on time. Talk about Boeing and your big deals after they’re done. In general, make sure that all surprises to investors are upside surprises. Lie #4: “Key employees will join us as soon as we get funded.” Let me get this straight: You’re two guys in a garage, you’re trying to raise a few hundred thousand dollars, your product is twelve months from completion, and you’re telling me that these well-known people are going to resign their $250,000 per year, plus bonus, plus stock option jobs to join your company? When we’ve checked with these key employees about whether they’re in fact all set to join the company, the response, more often than not, is, “I vaguely remember meeting the CEO at a cocktail party.” If you’re going to tell this lie, make sure that these potential employees are locked and loaded and ready to quit. Lie #5: “Several investors are already in due diligence.” That is, “If you don’t hurry, someone else will invest in us, and you won’t have the chance.” This works well in times of irrational exuberance, but it is generally a laughable tactic. The reality, and what the listener is thinking, is You’ve pitched a few other investors, and they haven’t gotten around to rejecting you yet. The odds are that the investors know one another better than you know them. They can easily call up their buddies and find out how interested another firm is in your deal. To pull this lie off, you’d better be either a great bluffer or smokin’ hot, or you won’t have a chance against the investor network. Lie #6: “Procter & Gamble is too old, big, dumb, and slow to be a threat.” Procter & Gamble, Microsoft, Oracle, Ford…pick a successful company. Many entrepreneurs think that by making such a statement, they are (a) convincing the investor of their moxie, (b) proving that they can defeat an entrenched competitor, and (c) establishing a competitive advantage. In reality, they are showing how naïve they are about what it takes to build a successful business. There’s a reason why people such as Larry Ellison can keep the San Jose airport open late for their private jets while you and I are munching peanuts on Southwest Airlines. And it’s not because they are old, big, dumb, and slow. It’s scary enough to investors that you are competing with an established company. Don’t seal your coffin by showing how clueless you are by denigrating such competition. Instead, build the case for these kinds of alternatives: partnering with the competition flying under its radar addressing a niche that it can’t or won’t address Lie #7: “Patents make our business defensible.” Patents do not make a business defensible. They might provide a temporary competitive advantage—particularly in material science, medical devices, and biotech companies—but that’s about it. Garage, for example, has a patent on the process of investors and entrepreneurs using the Internet to catalyze investments. Do I sleep better at night because of this? Has it prevented investment banks, laid-off investment bankers, and consultants from using the Internet to connect buyers and sellers of private placements? Would we try to enforce the patent? The answers are, respectively, no, no, and no. By all means, file for patents if you can, but don’t depend on them for much more than impressing your parents unless you have the time (years) and money (millions) to go to court. If Apple and the U.S. Department of Justice can’t beat Microsoft in court, you can’t, either. When talking to investors, the optimal number of times to mention that your technology is patentable is one. Zero is bad because it implies you don’t have anything proprietary. More than one mention means that you’re inexperienced and think patents make your business defensible. Lie #8: “All we have to do is get 1 percent of the market.” This is what venture capitalists call the Chinese Soda Lie. That is, “If just 1 percent of the people in China drink our soda, we will be more successful than any company in the history of mankind.” There are four problems with this line of reasoning: It’s not that easy to get 1 percent of the people in China to drink your soda. Very few entrepreneurs are truly going after a market as large as all the people in China. The company that came in before you said something similar about another market. So will the company after you. A company that is shooting for only 1 percent market share isn’t interesting.* The right thing to do, as I discussed earlier, is to either come up with a believable total addressable market figure or catalyze fantasy so the investor can come up with a number himself. But saying that all you have to do is get 1 percent of a big market labels you a bozo. Lie #9: “We have first-mover advantage.” There are at least two problems with this lie. First, it may not actually be true. How can you possibly know that no one else is doing what you’re doing? As a rule of thumb, if you’re doing something good, five other organizations are doing the same thing. If you’re doing something great, ten are. Second, first-mover advantage isn’t all that it’s cracked up to be. Being a “fast second” might be better—let someone else pioneer the concept, learn from their mistakes, and leapfrog them. Lie #10: “We have a world-class, proven team.” The acceptable definition of world-class and proven in this context is that the founders created enormous wealth for investors in a previous company, or they held positions in highly respected, publicly traded companies. Riding the tornado of a successful company in a minor role, working for McKinsey as a consultant, or putting in a couple of years at Morgan Stanley doesn’t count as a proven background.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 149 | Location 2272-2273 | Added on Monday, April 15, 2019 12:06:50 AM
+
+Also, express clearly that you’ll “do what’s right for the organization and step aside if this is the right thing to do.”
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 152 | Location 2327-2327 | Added on Monday, April 15, 2019 12:13:35 AM
+
+The CEO should not be paid more than four times the lowest-paid full-time employee.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 154 | Location 2350-2351 | Added on Monday, April 15, 2019 12:16:38 AM
+
+Whatever the first offer, ask for a 25 percent higher valuation because you’re expected to push back—in fact, if you don’t push back, you may scare the venture capitalist if he thinks you’re not a good negotiator.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 154 | Location 2361-2362 | Added on Monday, April 15, 2019 12:17:51 AM
+
+Investors are looking for people who can implement ideas, not simply come up with them. Ideas are easy. Implementation is hard—and where the money
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 154 | Location 2361-2362 | Added on Monday, April 15, 2019 12:18:00 AM
+
+Investors are looking for people who can implement ideas, not simply come up with them. Ideas are easy. Implementation is hard—and where the money is.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 157 | Location 2397-2399 | Added on Saturday, April 20, 2019 12:36:18 AM
+
+The gist of good partnering is that it should accelerate cash flow, increase revenue, and reduce costs. Partnerships built on solid business principles like these have a much greater likelihood of succeeding.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 158 | Location 2412-2412 | Added on Saturday, April 20, 2019 12:38:51 AM
+
+Never form a partnership to make the press happy.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 160 | Location 2442-2444 | Added on Saturday, April 20, 2019 12:57:48 AM
+
+If you want to make a partnership work, don’t focus on getting CEOs and upper management to agree and show up at the press conference. Ensure, instead, that the middles and bottoms understand the partnership, want to make it work, and value each other’s contributions.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 161 | Location 2464-2465 | Added on Saturday, April 20, 2019 1:24:15 AM
+
+ACCENTUATE STRENGTHS, DON’T COVER WEAKNESSES
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 164 | Location 2501-2502 | Added on Saturday, April 20, 2019 1:17:42 PM
+
+A document should always follow a discussion, never lead it.
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 165 | Location 2525-2545 | Added on Saturday, April 20, 2019 1:23:19 PM
+
+BIG ORGANIZATION SAYS… YOU HEAR… 1. “We want to do this for strategic reasons.” They can’t figure out how why this partnership is important. 2. “Our management really wants to do this.” A vice president heard about the proposal for thirty seconds and didn’t have time to say no yet. 3. “We can move fast.” No one has talked to the legal department yet. 4. “Our legal department won’t be a problem.” The legal department will be a huge problem. 5. “We want to time the announcement of our partnership with the release of a new version of our product.” The release will be late, and there’s not a thing we can do about its delaying our partnership. 6. “The engineering team really likes it.” The marketing team is going to kill it. 7. “The marketing team really likes it.” The engineering team is going to kill it.” 8. “The engineering and marketing teams really like it.” The lawyers are going to kill it. 9. “The engineering, marketing, and legal teams really like it.” Pinch yourself—you’re asleep and dreaming. 10. “We’re forming a cross-functional team to ensure the success of this project.” No one is accountable for the success of this project. <You have reached the clipping limit for this item>
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 167 | Location 2553-2580 | Added on Saturday, April 20, 2019 1:54:00 PM
+
+ <You have reached the clipping limit for this item>
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 169 | Location 2585-2620 | Added on Saturday, April 20, 2019 1:58:39 PM
+
+ <You have reached the clipping limit for this item>
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 176 | Location 2685-2687 | Added on Saturday, April 20, 2019 4:07:03 PM
+
+ <You have reached the clipping limit for this item>
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 178 | Location 2722-2724 | Added on Saturday, April 20, 2019 4:14:34 PM
+
+ <You have reached the clipping limit for this item>
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 186 | Location 2842-2843 | Added on Saturday, April 20, 2019 8:33:27 PM
+
+ <You have reached the clipping limit for this item>
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 186 | Location 2849-2851 | Added on Saturday, April 20, 2019 8:36:37 PM
+
+ <You have reached the clipping limit for this item>
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 192 | Location 2931-2932 | Added on Saturday, April 20, 2019 9:07:06 PM
+
+ <You have reached the clipping limit for this item>
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 192 | Location 2932-2932 | Added on Saturday, April 20, 2019 9:07:12 PM
+
+ <You have reached the clipping limit for this item>
+==========
+The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (Guy Kawasaki)
+- Your Highlight on page 193 | Location 2949-2960 | Added on Saturday, April 20, 2019 9:11:52 PM
+
+ <You have reached the clipping limit for this item>
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 11 | Location 154-155 | Added on Thursday, April 25, 2019 11:08:35 AM
+
+Our company is a product. We want you to think of yours as one, too. Whether you own it, run it, or “just” work there, it takes everyone involved to make it better.
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 14 | Location 201-201 | Added on Thursday, April 25, 2019 11:21:36 AM
+
+Mark Twain nailed it: “Comparison is the death of joy.”
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 17 | Location 253-255 | Added on Thursday, April 25, 2019 11:33:20 AM
+
+If you stop thinking that you must change the world, you lift a tremendous burden off yourself and the people around you. There’s no longer this convenient excuse for why it has to be all work all the time. The opportunity to do another good day’s work will come again tomorrow, even if you go home at a reasonable time.
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 18 | Location 272-273 | Added on Thursday, April 25, 2019 11:35:33 AM
+
+Nothing looms when you don’t make predictions.
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 24 | Location 361-365 | Added on Thursday, April 25, 2019 11:55:02 AM
+
+Being productive is about occupying your time—filling your schedule to the brim and getting as much done as you can. Being effective is about finding more of your time unoccupied and open for other things besides work. Time for leisure, time for family and friends. Or time for doing absolutely nothing. Yes, it’s perfectly okay to have nothing to do. Or, better yet, nothing worth doing. If you’ve only got three hours of work to do on a given day, then stop. Don’t fill your day with five more just to stay busy or feel productive. Not doing something that isn’t worth doing is a wonderful way to spend your time.
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 31 | Location 463-464 | Added on Thursday, April 25, 2019 12:21:48 PM
+
+immediate response is the ember that ignites so many fires at work. First someone emails you. Then if they
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 35 | Location 525-526 | Added on Sunday, April 28, 2019 9:34:49 PM
+
+It doesn’t matter what you say, it matters what you do.
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 42 | Location 644-644 | Added on Sunday, April 28, 2019 9:53:40 PM
+
+sleep. Very few problems need to be solved at the twelfth
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 42 | Location 644-644 | Added on Sunday, April 28, 2019 9:53:46 PM
+
+sleep. Very few problems need to be solved at the twelfth
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 45 | Location 686-686 | Added on Monday, April 29, 2019 7:08:37 PM
+
+They hire someone based on a list of previous qualifications, not on their current abilities.
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 46 | Location 704-706 | Added on Monday, April 29, 2019 7:13:30 PM
+
+It’s especially tempting to think that if you work in a small company, you could really benefit from someone with the experience from a big company to help you “grow up.” But trying to teach a small company how to act like a big one rarely does anyone any good. You’re usually better off finding someone who’s familiar with the challenges at your company’s size or thereabouts.
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 52 | Location 785-787 | Added on Monday, April 29, 2019 7:24:02 PM
+
+Have you heard about those companies whose benefits include game-console rooms, cereal snack bars, top-chef lunches and dinners, nap rooms, laundry service, and free beer on Fridays? It seems so generous, but there’s also a catch: You can’t leave the office.
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 56 | Location 858-858 | Added on Monday, April 29, 2019 7:33:23 PM
+
+it’s not truly unlimited. Can someone really take five months off? No. Three? No. Two? One? Maybe? Is
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 56 | Location 858-859 | Added on Monday, April 29, 2019 7:33:28 PM
+
+Is it weeks or months? Who’s to know for sure? Ambiguity breeds anxiety.
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 56 | Location 859-859 | Added on Monday, April 29, 2019 7:33:33 PM
+
+Ambiguity breeds anxiety.
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 65 | Location 989-990 | Added on Monday, April 29, 2019 7:58:37 PM
+
+Unwinding the new normal requires far more effort than preventing that new normal from being set in the first place. If you don’t want gnarly roots in your culture, you have to mind the seeds.
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 65 | Location 989-992 | Added on Monday, April 29, 2019 7:58:45 PM
+
+Unwinding the new normal requires far more effort than preventing that new normal from being set in the first place. If you don’t want gnarly roots in your culture, you have to mind the seeds. You don’t have to let something slide for long before it becomes the new normal. Culture is what culture does. Culture isn’t what you intend it to be. It’s not what you hope or aspire for it to be. It’s what you do. So do better.
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 65 | Location 995-996 | Added on Monday, April 29, 2019 8:01:43 PM
+
+What we do repeatedly hardens into habits. The longer you carry on, the tougher it is to change. All your best intentions about doing the right thing “later” are no match for the power of habits.
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 67 | Location 1027-1028 | Added on Sunday, May 5, 2019 5:31:30 PM
+
+So don’t tie more knots, cut more ties. The fewer bonds, the better.
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 69 | Location 1054-1055 | Added on Thursday, May 9, 2019 6:08:44 PM
+
+What’s especially important in disagree-and-commit situations is that the final decision should be explained clearly to everyone involved. It’s not just decide and go, it’s decide, explain, and go.
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 70 | Location 1059-1062 | Added on Thursday, May 9, 2019 6:09:40 PM
+
+You just can’t bring your A game to every situation. Knowing when to embrace Good Enough is what gives you the opportunity to be truly excellent when you need to be. We’re not suggesting you put shit work out there. You need to be able to be proud of it, even if it’s only “okay.” But attempting to be indiscriminately great at everything is a foolish waste of energy.
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 70 | Location 1063-1065 | Added on Thursday, May 9, 2019 6:10:07 PM
+
+The act of separation should be your highest-quality endeavor. It’s easy to say “Everything has to be great,” but anyone can do that. The challenge lies in figuring out where you can be just kinda okay or even downright weak.
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 77 | Location 1179-1181 | Added on Thursday, May 9, 2019 6:29:40 PM
+
+Saying no is the only way to claw back time. Don’t shuffle 12 things so that you can do them in a different order, don’t set timers to move on from this or that. Eliminate 7 of the 12 things, and you’ll have time left for the 5. It’s not time management, it’s obligation elimination. Everything else is snake oil.
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 82 | Location 1256-1257 | Added on Thursday, May 9, 2019 6:50:17 PM
+
+The smart bet is one where you get to play again if it doesn’t come up your way.
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 87 | Location 1325-1327 | Added on Thursday, May 9, 2019 7:01:30 PM
+
+Real answers are only uncovered when someone’s motivated enough to buy your product and use it in their own natural environment—and of their own volition. Anything else is a simulation, and simulated situations give you simulated answers. Shipping real products gives you real answers.
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 88 | Location 1347-1348 | Added on Thursday, May 9, 2019 7:03:51 PM
+
+That’s what promises lead to—rushing, dropping, scrambling, and a tinge of regret at the earlier promise that was a bit too easy to make.
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 89 | Location 1356-1363 | Added on Thursday, May 9, 2019 7:05:31 PM
+
+And if the whole world’s singing your songs And all of your paintings have been hung Just remember what was yours Is everyone’s from now on And that’s not wrong or right But you can struggle with it all you like You’ll only get uptight —Wilco, “What Light”
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 90 | Location 1379-1381 | Added on Thursday, May 9, 2019 7:08:28 PM
+
+You’ll often hear that people don’t like change, but that’s not quite right. People have no problem with change they asked for. What people don’t like is forced change—change they didn’t request on a timeline they didn’t choose. Your “new and improved” can easily become their “what the fuck?” when it is dumped on them as a surprise.
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 91 | Location 1390-1391 | Added on Thursday, May 9, 2019 7:09:41 PM
+
+Sell new customers on the new thing and let old customers keep whatever they already have. This is the way to keep the peace and maintain the calm.
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 91 | Location 1396-1397 | Added on Thursday, May 9, 2019 7:10:28 PM
+
+Technology and design has changed. We’ve evolved. But our evolution is at our pace, and new customers today expect something different than new customers did a decade ago. But that doesn’t mean we should force our earliest customers to follow along at our pace.
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 92 | Location 1405-1408 | Added on Thursday, May 9, 2019 7:11:31 PM
+
+Getting things off the ground is so hard that it’s natural to expect it’ll just get easier from here. Except it doesn’t. Things get harder as you go, not easier. The easiest day is day one. That’s the dirty little secret of business. As you grow, you hire people. With people come personalities. With personalities come office politics
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 92 | Location 1405-1408 | Added on Thursday, May 9, 2019 7:11:36 PM
+
+Getting things off the ground is so hard that it’s natural to expect it’ll just get easier from here. Except it doesn’t. Things get harder as you go, not easier. The easiest day is day one. That’s the dirty little secret of business. As you grow, you hire people. With people come personalities. With personalities come office politics and a hundred other challenges of human nature.
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 93 | Location 1419-1437 | Added on Thursday, May 9, 2019 7:14:51 PM
+
+Here’s something that should be obvious: People don’t like to have their grievances downplayed or dismissed. When that happens, even the smallest irritation can turn into an obsessive crusade. Imagine you’re staying at a hotel, and the air-conditioning isn’t working right. You call the front desk to mention it, and they say, oh yeah, they know about that, and someone is going to come fix that next week (after you’ve left). In the meantime, could you just open a window (down to that noisy, busy street)? Not a word of apology, no tone of contrition. Now what was a mild annoyance—that it’s 74F degrees when you like to sleep at 69F—is suddenly the end of the world! You swell with righteous fury, swear you’ll write a letter to management, and savage the hotel in your online review. Jean-Louis Gassée, who used to run Apple France, describes this situation as the choice between two tokens. When you deal with people who have trouble, you can either choose to take the token that says “It’s no big deal” or the token that says “It’s the end of the world.” Whichever token you pick, they’ll take the other. The hotel staff in the example above clearly took the “It’s no big deal” token and as a result forced you to take the “It’s the end of the world” token. But they could just as well have made the opposite choice. Imagine the staff answering something like this: “We’re so sorry. That’s clearly unacceptable! I can completely understand how it must be almost impossible to sleep when it’s so hot in your room. If I can’t fix this problem for you tonight, would you like me to refund your stay and help you find a different hotel room nearby? In any case, while we’re figuring out the solution, allow me to send up a bottle of ice water and some ice cream. We’re terribly sorry for this ordeal and we’ll do everything to make it right.” With an answer like that, you’re almost forced to pick the “It’s no big deal” token. Yeah, sure, some water and ice cream would be great! Everyone wants to be heard and respected. It usually doesn’t cost much to do, either. And it doesn’t really matter all that much whether you ultimately think you’re right and they’re wrong. Arguing with heated feelings will just increase the burn.
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 101 | Location 1543-1544 | Added on Thursday, May 9, 2019 7:20:09 PM
+
+Read our employee handbook Our values, our structure, our methods, our benefits, and more are online for everyone to see at basecamp.com/handbook.
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 102 | Location 1550-1552 | Added on Thursday, May 9, 2019 7:20:25 PM
+
+Other books we’ve written Find a list of our other books at basecamp.com/books.
+==========
+It Doesn't Have to Be Crazy at Work (Jason Fried;David Heinemeier Hansson)
+- Your Highlight on page 102 | Location 1552-1554 | Added on Thursday, May 9, 2019 7:20:32 PM
+
+Watch some videos Check out a wide variety of talks from Jason, David, and others on the Basecamp staff at basecamp.com/speaks.
+==========
+Scurta istorie a timpului (Stephen Hawking)
+- Your Highlight on page 26 | Location 395-395 | Added on Monday, June 10, 2019 12:01:21 AM
+
+Astfel, când privim universul, îl vedem aşa cum a fost în trecut.
+==========
+Scurta istorie a timpului (Stephen Hawking)
+- Your Highlight on page 118 | Location 1804-1804 | Added on Sunday, July 14, 2019 12:48:41 AM
+
+Într-un univers de acest fel,
+==========
+Scurta istorie a timpului (Stephen Hawking)
+- Your Highlight on page 120 | Location 1825-1826 | Added on Sunday, July 14, 2019 2:30:26 PM
+
+Astăzi universul nu se extinde inflaţionist.
 ==========

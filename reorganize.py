@@ -19,8 +19,8 @@ highlights = []
 
 with open(fileName, 'r+') as myClippingsFile:
     data = myClippingsFile.read()
-    myClippingsFile.seek(0)
-    myClippingsFile.write(highlightSeparator + data)
+#     myClippingsFile.seek(0)
+#     myClippingsFile.write(highlightSeparator + data)
     highlights = data.split(highlightSeparator)
     highlights = highlights[:-1]
     for highlight in highlights:
