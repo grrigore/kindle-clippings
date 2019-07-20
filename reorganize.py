@@ -16,21 +16,19 @@ fileName = sys.argv[1]
 highlightSeparator = "==========\n"
 highlights = []
 
-
+# Read from MyClippings.txt
 with open(fileName, 'r+') as myClippingsFile:
     data = myClippingsFile.read()
-#     myClippingsFile.seek(0)
-#     myClippingsFile.write(highlightSeparator + data)
     highlights = data.split(highlightSeparator)
     highlights = highlights[:-1]
-    for highlight in highlights:
-        print(highlight + " ------ ")
 
 createDirectory("My Clippings")
 
+# Write in directory
 for highlight in highlights:
-    bookTitle = highlight.split("(")[0]
-    bookTitle = bookTitle[:-1] + '.txt'
+    bookTitle = highlight.split("\n")[0]
+    bookTitle = bookTitle + '.txt'
     bookTitle = bookTitle.replace("\ufeff", "")
+    bookTitle = bookTitle.replace("\u0000", "")
     with open("My Clippings/" + bookTitle, 'a') as bookHighlights:
-        bookHighlights.write("\n" + highlight)
+        bookHighlights.write(highlight + "\n")
