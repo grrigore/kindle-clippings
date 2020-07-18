@@ -60,8 +60,6 @@ class Highlight:
         self.location = location
         self.date = date
 
-
-# MyClippings.txt file path
 fileName = sys.argv[1]
 
 highlightSeparator = "==========\n"
@@ -77,8 +75,6 @@ with open(fileName, 'r+', encoding='utf-8-sig') as myClippingsFile:
     highlights = highlights[:-1]
 
 for highlight in highlights:
-    # get highlight title - contains book title and authors
-    highlightTitle = highlight.split("\n")[0]
     # get highlight title - contains book title and authors
     highlightTitle = highlight.split("\n")[0]
     # get book authors from current hightlight
